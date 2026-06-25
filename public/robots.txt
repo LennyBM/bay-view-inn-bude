@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bay-view-inn-bude.vercel.app/sitemap.xml
